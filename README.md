@@ -80,13 +80,13 @@ Durante este projeto desenvolvi competências em:
 Clone o repositório:
 
 ```bash
-git clone https://github.com/progamai/sql-analysis-books.git
+git clone https://github.com/progamai/chicago-taxi-sql-analysis.git
 ```
 
 Entre na pasta:
 
 ```bash
-cd sql-analysis-books
+cd chicago-taxi-sql-analysis
 ```
 
 Instale as dependências:
