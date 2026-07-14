@@ -126,3 +126,4 @@ sql-analysis-books/
 
 - GitHub: https://github.com/progamai
 - LinkedIn: https://www.linkedin.com/in/maicon-santos-dataanalyst
+
